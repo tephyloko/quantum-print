@@ -13,3 +13,8 @@ Olá! Sou seu Gerente de Projetos de IA.
 
 **PERGUNTA PARA VOCÊ:**
 - O algoritmo principal para isso é o "Problema do Empacotamento Bidimensional". Existem várias abordagens. Para o nosso MVP, você prefere que eu implemente uma abordagem mais simples e rápida (heurística "first-fit") ou uma mais complexa que pode dar um resultado um pouco melhor, mas levará mais tempo para desenvolver?
+
+
+** Resposta Inicial **
+
+Quero que o projeto fique o mais parecido possivel com o ESKO PHOENIX, com imposições inteligentes, GUI e UX top, com drag and drop e tudo mais... 
