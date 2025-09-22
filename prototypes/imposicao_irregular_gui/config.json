@@ -1,0 +1,11 @@
+{
+    "input_pdf_path": "./seu_arquivo_de_entrada.pdf",
+    "output_pdf_path": "./imposicao_final.pdf",
+    "sheet_width_mm": 210,  
+    "sheet_height_mm": 297, 
+    "shape_width_mm": 50,   
+    "shape_height_mm": 30,  
+    "rotations_degrees": [0, 90, 180, 270],
+    "padding_mm": 2.0,
+    "num_shapes_to_impose": 20
+}
